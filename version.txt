@@ -1,2 +1,4 @@
 1.0.2
 https://github.com/Lawngquawng/version/releases/download/vesion/Lawngquawng.exe
+1.0.2
+https://github.com/Lawngquawng/version/releases/download/version_py6/Lawngquawng.exe
