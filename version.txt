@@ -1,7 +1,7 @@
 1.0.2
 https://github.com/Lawngquawng/version/releases/download/vesion/Lawngquawng.exe
 py_6
-1.0.6
+1.0.7
 https://github.com/Lawngquawng/version/releases/download/version_py6/Lawngquawng.exe
 icons
 https://github.com/Lawngquawng/version/releases/download/icons/myicon.ico
