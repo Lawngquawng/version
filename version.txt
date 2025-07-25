@@ -2,6 +2,6 @@
 https://github.com/Lawngquawng/version/releases/download/vesion/Lawngquawng.exe
 py_6
 1.0.9
-https://github.com/Lawngquawng/version/releases/download/version_py6/Lawngquawng.exe
+https://github.com/Lawngquawng/version/releases/download/version_py6/LQ_Vender.exe
 icons
 https://github.com/Lawngquawng/version/releases/download/icons/myicon.ico
