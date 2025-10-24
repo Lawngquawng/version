@@ -5,4 +5,3 @@ bản nor:
 https://github.com/Lawngquawng/version/releases/download/version_py6/LQ_Vender.exe
 icons
 https://github.com/Lawngquawng/version/releases/download/icons/myicon.ico
-bản pro
