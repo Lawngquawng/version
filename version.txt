@@ -7,4 +7,4 @@ icons
 https://github.com/Lawngquawng/version/releases/download/icons/myicon.ico
 bản pro
 1.8
-https://github.com/Lawngquawng/version/releases/download/version_py6/LQ_Vender.exe
+https://github.com/Lawngquawng/version/releases/download/LQ_vender_pro/LQ_Vender.exe
